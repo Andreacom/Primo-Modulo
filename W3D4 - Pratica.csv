@@ -1,0 +1,17 @@
+﻿Requisito;Priorità;Tempo
+Lista di libri presenti;1;
+info sulla data di disponibilità;1;
+Queue per prenotarsi;2;
+Timer informativo sulla restituzione;3;
+Info su argomento, autore e features filtrabili in base alle necessità;1;
+Mappa dello stabilimento con info sulla posizione dei volumi;3;
+Database con le anagrafiche dei dipendenti associate a degli id personali;1;
+Possibilità di matchare l’id del commesso con il libro prestato;1;
+Mappa con dei codici per area a seconda delle necessità;2;
+Match tra codice cliente e caratteristiche del libro prestato;1;
+;;
+;;
+Priorità;;
+Alta;1;
+Media;2;
+Bassa;3;
